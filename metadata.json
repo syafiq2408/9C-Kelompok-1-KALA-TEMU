@@ -1,0 +1,8 @@
+{
+  "name": "9A Kelompok 1 KALA TEMU Smart Cafe",
+  "description": "Smart Cafe KALA TEMU - Combining cozy coffee culture with cutting-edge IoT technology, featuring interactive ordering, smart tables, and delicious culinary creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
